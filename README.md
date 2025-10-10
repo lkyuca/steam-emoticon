@@ -7,7 +7,7 @@ I’ll show you how I did it.
 
 ---
 
-### 🔗 Example Syntax
+### 🔗 Edit your profile
 
 **Write it like this:**       [url=https://example.com][emoticonname][/url]
 
