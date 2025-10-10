@@ -1,7 +1,13 @@
-# steam-emoticon
+# Steam EMOTICON Guide
 
-on steam you can add a link to a emoticon thats why you are here 
-i am going to teach how i did it 
+On Steam, you can add a link to an emoticon — that’s what this guide is about.  
+I’ll show you how I did it.
+
+---
+
+### 🔗 Example Syntax
+
+**Write it like this:**
 
 here is an example how you write in text:  [url=https://example.com][emoticonname][/url]
 
@@ -34,22 +40,4 @@ if you want to buy a emote with **steampoints** this game is cheaper however thi
 steam guide with emoticons based on colors/events:
 
 [complete emoticon steam guide:](https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850 )
-
-
-
-
-# Steam Emoticon Guide
-
-On Steam, you can add a link to an emoticon — that’s what this guide is about.  
-I’ll show you how I did it.
-
----
-
-### 🔗 Example Syntax
-
-**Write it like this:**
-
-
-
-
 
