@@ -1,6 +1,7 @@
 # Steam EMOTICON Guide
 
-On Steam, you can add a link to an emoticon — that’s what this guide is about.  
+On Steam, you can add a link to an emoticon — 
+that’s what this guide is about.  
 I’ll show you how I did it.
 
 ---
