@@ -16,7 +16,7 @@ I’ll show you how I did it.
 
 you can do this with **invisible emoticon** aswell:
 
-[here is a link to buy a completely invisible EMOTICON](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
+[link to buy a completely invisible emoticon](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
 
 
 if you buy the emoticon straight from the community market you won't have to buy the game 
