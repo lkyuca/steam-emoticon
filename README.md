@@ -11,6 +11,8 @@ and here is exactly how i wrote it in text:  [url=https://github.com/lkyuca/stea
 you can do this with invisible emoticon:
 
 [completely invisible emoticon link](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
+
+
 if you buy the emoticon straight from the community market you won't have to buy the game 
 
 if you want to buy the emote with steampoints you first need to buy the game and play 2 hours
