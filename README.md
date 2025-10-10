@@ -11,17 +11,18 @@ and here is exactly how i wrote it in text:  [url=https://github.com/lkyuca/stea
 you can do this with invisible emoticon:
 
 [completely invisible emoticon link](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
+if you buy the emoticon straight from the community market you won't have to buy the game 
 
-the problem with this is you need to buy the steam game and play 2 hours for it to work or buy the emoticon straight from the community market
-[game:](https://store.steampowered.com/app/515040/Make_America_Great_Again_The_Trump_Presidency/ )
+if you want to buy the emote with steampoints you first need to buy the game and play 2 hours
+[game for the emoticon thats invisible](https://store.steampowered.com/app/515040/Make_America_Great_Again_The_Trump_Presidency/ )
 
-you can do this with cheaper games with almost invisble emoticons like:
+if you want to buy a emote with steampoints this game is cheaper however this emoticon is almost invisible but not completely:
 [emoticon:](https://steamcommunity.com/market/listings/753/534560-%3AYemot%3A  )
 [game:](https://store.steampowered.com/app/534560/Ramify/ )
 
 
 steam guide with emoticons based on colors/events:
-[steam guide:](https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850 )
+[complete emoticon steam guide:](https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850 )
 
-[Visible Text](https://example.com)
+
 
