@@ -7,12 +7,9 @@ I’ll show you how I did it.
 
 ### 🔗 Example Syntax
 
-**Write it like this:**
+**Write it like this:** [url=https://example.com][emoticonname][/url]
+**how i wrote it    :** [url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
 
-here is an example how you write in text:  [url=https://example.com][emoticonname][/url]
-
-
-and here is exactly how i wrote it in text:  [url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
 
 you can do this with **invisible emoticon**:
 
