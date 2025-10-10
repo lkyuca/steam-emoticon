@@ -37,3 +37,19 @@ steam guide with emoticons based on colors/events:
 
 
 
+
+# Steam Emoticon Guide
+
+On Steam, you can add a link to an emoticon — that’s what this guide is about.  
+I’ll show you how I did it.
+
+---
+
+### 🔗 Example Syntax
+
+**Write it like this:**
+
+
+
+
+
