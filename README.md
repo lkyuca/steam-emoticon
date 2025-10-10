@@ -21,4 +21,6 @@ you can do this with cheaper games with almost invisble emoticons like:
 
 steam guide with emoticons based on colors/events:
 [steam guide:]([https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850] )
-0
+
+[Visible Text](https://example.com)
+
