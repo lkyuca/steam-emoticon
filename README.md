@@ -14,7 +14,7 @@ I’ll show you how I did it.
 **how i wrote it    :** [url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
 
 
-you can do this with **invisible emoticon**:
+you can do this with **invisible emoticon aswell**:
 
 [completely invisible emoticon link](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
 
