@@ -9,7 +9,8 @@ here is an example how you write in text:  [url=https://example.com][emoticonnam
 and here is exactly how i wrote it in text:  [url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
 
 you can do this with invisible emoticon:
-[emoticon:]((https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
+
+[emoticon:](https://steamcommunity.com/market/listings/753/515040-%3ARareDeplorable%3A )
 
 the problem with this is you need to buy the steam game and play 2 hours for it to work or buy the emoticon straight from the community market
 [game:]([https://store.steampowered.com/app/515040/Make_America_Great_Again_The_Trump_Presidency/] )
