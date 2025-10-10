@@ -15,6 +15,8 @@ you can do this with invisible emoticon:
 
 if you buy the emoticon straight from the community market you won't have to buy the game 
 
+
+
 if you want to buy the emote with steampoints you first need to buy the game and play 2 hours
 [game for the emoticon thats invisible](https://store.steampowered.com/app/515040/Make_America_Great_Again_The_Trump_Presidency/ )
 
