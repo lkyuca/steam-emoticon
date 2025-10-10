@@ -1,7 +1,7 @@
 # steam-emoticon
 
 on steam you can add a link to a emoticon thats why you are here 
-i am going to teach how to add a link to a emoticon 
+i am going to teach how i did it 
 
 here is an example how you write in text:  [url=https://example.com][emoticonname][/url]
 and here is exactly how i wrote it in text:[url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
