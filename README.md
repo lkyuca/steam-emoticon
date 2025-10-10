@@ -7,7 +7,8 @@ I’ll show you how I did it.
 
 ### 🔗 Example Syntax
 
-**Write it like this:** [url=https://example.com][emoticonname][/url]
+**Write it like this:**       [url=https://example.com][emoticonname][/url]
+
 **how i wrote it    :** [url=https://github.com/lkyuca/steam-emoticon][:hacknetcog:][/url]
 
 
