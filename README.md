@@ -74,18 +74,36 @@ Steam guide with emoticons based on colors and events:
 
 <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850">
+---
 
-  [b]🌐 Change Steam Language with Emoticon Links[/b]
+### 🌐 Change Steam Language with Emoticon Links
 
-Click an emoticon below to instantly switch your Steam language:
+Copy and paste in in your steam message box to instantly switch your Steam language:
 
-<url=https://store.steampowered.com/?l=english>:us:[/url] [b]English[/b]  
-<url=https://store.steampowered.com/?l=dutch]:netherlands:[/url] [b]Dutch[/b]  
-[url=https://store.steampowered.com/?l=french]:fr:[/url] [b]French[/b]  
-[url=https://store.steampowered.com/?l=german]:de:[/url] [b]German[/b]  
-[url=https://store.steampowered.com/?l=japanese]:jp:[/url] [b]Japanese[/b]
+**Write it like this change language steam store:**
+</code>[url=https://store.steampowered.com/?l=language][emoticonname][/url]</code>
 
-💡 [i]Tip:[/i] You can replace the flag emoticons with any you own — just swap `:us:` or `:fr:` with another emoticon code.
+
+**How I wrote it:**
+</code>[url=https://store.steampowered.com/?l=japanese][:hacknetcog:][/url]</code>
+
+**Write it like this change language steam profile:**
+[url=https://steamcommunity.com/id/YOURPROFILE/?l=language][:emoticonname:][/url]  Japanese
+
+
+**How I wrote it:**
+[url=https://steamcommunity.com/id/76561199222171973/?l=japanese][:hacknetcog:][/url]  Japanese
+
+<p align="center">
+<a href="https://store.steampowered.com/?l=english">🇺🇸 English</a><br>
+<a href="https://store.steampowered.com/?l=dutch">🇳🇱 Dutch</a><br>
+<a href="https://store.steampowered.com/?l=french">🇫🇷 French</a><br>
+<a href="https://store.steampowered.com/?l=german">🇩🇪 German</a><br>
+<a href="https://store.steampowered.com/?l=japanese">🇯🇵 Japanese</a>
+</p>
+
+💡 *Tip:* You can replace the flags with Steam emoticons in your Steam guide — just use the code `:us:` or `:fr:` inside `[url]` tags when formatting for Steam.
+
 
 📘 Complete Emoticon Steam Guide
 </a>
