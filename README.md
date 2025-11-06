@@ -107,6 +107,9 @@ Copy and paste in your Steam message box to instantly switch your Steam language
 
 💡 *Tip:* You can replace the flags with Steam emoticons in your Steam guide — just use the code `:us:` or `:fr:` inside `[url]` tags when formatting for Steam.
 
+---
+
+
 ### 🎨 Extra: Emoticon Reference
 
 Steam guide with emoticons based on colors and events:
