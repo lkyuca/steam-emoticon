@@ -1,6 +1,6 @@
 <p align="center">
   <h1>🎮 Steam Emoticon Guide</h1>
-  <em>How to create hidden and clickable Steam emoticon links</em>
+  <em>How to create hidden and clickable Steam emoticon link</em>
 </p>
 
 ---
@@ -74,6 +74,19 @@ Steam guide with emoticons based on colors and events:
 
 <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850">
+
+  [b]🌐 Change Steam Language with Emoticon Links[/b]
+
+Click an emoticon below to instantly switch your Steam language:
+
+<url=https://store.steampowered.com/?l=english>:us:[/url] [b]English[/b]  
+<url=https://store.steampowered.com/?l=dutch]:netherlands:[/url] [b]Dutch[/b]  
+[url=https://store.steampowered.com/?l=french]:fr:[/url] [b]French[/b]  
+[url=https://store.steampowered.com/?l=german]:de:[/url] [b]German[/b]  
+[url=https://store.steampowered.com/?l=japanese]:jp:[/url] [b]Japanese[/b]
+
+💡 [i]Tip:[/i] You can replace the flag emoticons with any you own — just swap `:us:` or `:fr:` with another emoticon code.
+
 📘 Complete Emoticon Steam Guide
 </a>
 </p>
