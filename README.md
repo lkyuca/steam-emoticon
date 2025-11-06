@@ -105,7 +105,7 @@ Copy and paste in your Steam message box to instantly switch your Steam language
 <a href="https://store.steampowered.com/?l=japanese">🇯🇵 Japanese</a>
 </p>
 
-💡 *Tip:* You can replace the flags with Steam emoticons in your Steam guide — just use the code `:us:` or `:fr:` inside `[url]` tags when formatting for Steam.
+💡 *Tip:* You can replace the flags with Steam emoticons in your Steam profile — just use the code `:us:` or `:fr:` inside `[url]` tags when formatting for Steam.
 
 ---
 
