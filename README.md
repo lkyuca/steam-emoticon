@@ -111,3 +111,46 @@ Copy and paste in in your steam message box to instantly switch your Steam langu
 </p>
 
 
+---
+
+### 🌐 Change Steam Language with Emoticon Links
+
+Copy and paste in your Steam message box to instantly switch your Steam language:
+
+**Change Steam Store Language:**
+
+<p align="center">
+<code>[url=https://store.steampowered.com/?l=language][emoticonname][/url]</code>
+</p>
+
+**Example (how I wrote it):**
+
+<p align="center">
+<code>[url=https://store.steampowered.com/?l=japanese][:hacknetcog:][/url]</code>
+</p>
+
+**Change Steam Profile Language:**
+
+<p align="center">
+<code>[url=https://steamcommunity.com/profiles/76561199222171973/?l=language][:emoticonname:][/code]</code>
+</p>
+
+**Example (how I wrote it):**
+
+<p align="center">
+<code>[url=https://steamcommunity.com/profiles/76561199222171973/?l=japanese][:hacknetcog:][/url]</code>  Japanese
+</p>
+
+<p align="center">
+<a href="https://store.steampowered.com/?l=english">🇺🇸 English</a><br>
+<a href="https://store.steampowered.com/?l=dutch">🇳🇱 Dutch</a><br>
+<a href="https://store.steampowered.com/?l=french">🇫🇷 French</a><br>
+<a href="https://store.steampowered.com/?l=german">🇩🇪 German</a><br>
+<a href="https://store.steampowered.com/?l=japanese">🇯🇵 Japanese</a>
+</p>
+
+💡 *Tip:* You can replace the flags with Steam emoticons in your Steam guide — just use the code `:us:` or `:fr:` inside `[url]` tags when formatting for Steam.
+
+📘 Complete Emoticon Steam Guide
+
+
