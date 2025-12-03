@@ -116,7 +116,7 @@ Steam guide with emoticons based on colors and events:
 
 <p align="center">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1885366850">
-  📘 Complete Emoticon Steam Guide
+  📘 Complete collection Emoticon Steam Guide
 
 ---
 
